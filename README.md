@@ -14,4 +14,4 @@ Este proyecto de HTML es una pre-entrega de evaluacion. el contenido refiere sob
 <span style="background-color: blue; padding: 5px; color: gold;">Opción 1: Clickear enlace en "About"</span>
 <span style="background-color: crimson; padding: 5px; color: white">Opción 2: Clonar el repositorio y ejecutar archivo index.html</span>
 
-[Repositorio GitHub](LINK)
+[Repositorio GitHub](https://github.com/MBrian91/proyecto-html-brianmedina)
