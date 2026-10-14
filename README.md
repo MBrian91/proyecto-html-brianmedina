@@ -1,6 +1,7 @@
 # Proyecto-HTML-BrianMedina
 
 Este proyecto de HTML refiere a un sitio web para un Instituto de Terapa Ocupacional. En donde aplicamos los conceptos basicos de hmtl para el armado semantico de una pagina.
+
 **Lista de Tecnologías**
 
 1. HTML5
